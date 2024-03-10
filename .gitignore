@@ -1,0 +1,8 @@
+recipe_site/media/
+recipe_site/assets/
+/__pycache__/
+*.sqlite3
+recipe_site/log/
+recipe_site/__pycache__/
+recipe_app/__pycache__/
+recipe_site/static/
